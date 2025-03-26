@@ -23,8 +23,8 @@ Que sea hacer?
 def mostrar_principal():
  print(menu_principal)
 
- def pedir_opc_menu():
-    return input ("Ingrese la Opcion: ")
+def pedir_opc_menu():
+    return input("Ingrese la Opcion: ")
 
 def ejecucion_pricipal():
     while True:
